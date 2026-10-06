@@ -49,3 +49,7 @@ DEMO_PLAN.md
 .env.local
 .env.*.local
 .env.production
+
+# python backend
+backend/venv/
+__pycache__/

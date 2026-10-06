@@ -13,6 +13,7 @@ class Settings(BaseSettings):
     REDDIT_USER_AGENT: str = "PolyTerminal/1.0"
     TOKEN_COMPANY_API_KEY: str | None = None
     GEMINI_API_KEY: str | None = None
+    GROQ_API_KEY: str | None = None
     WOODWIDE_API_KEY: str | None = None
 
     # Redis
